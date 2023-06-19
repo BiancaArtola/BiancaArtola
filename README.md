@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bianca Artola</h1>
 <h3 align="center">I'm a front-end developer</h3>
 
+## 🌐 My website
+[Website](https://portfolio-biancaartola.vercel.app/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-artola/) 
 
