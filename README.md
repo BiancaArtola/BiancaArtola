@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer III @ Dialpad · Frontend · Bahía Blanca, Argentina</h3>
 
 <p align="center">
-  <a href="https://portfolio-biancaartola.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ffcc1a?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://portfolio-beta-ten-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ffcc1a?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bianca-artola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -38,4 +38,4 @@ AI is part of my daily workflow. I use **Claude** (Claude Code, agents, skills a
 - **MiPlata** – personal finance app (React, TypeScript, Supabase) with multi-currency and Excel/CSV import. *(private)*
 - **[Final Project](https://github.com/BiancaArtola/finalproject)** – Ionic + Angular + Firebase app for renting sports courts, built around user-centered design.
 
-More on my [portfolio](https://portfolio-biancaartola.vercel.app/).
+More on my [portfolio](https://portfolio-beta-ten-19.vercel.app/).
