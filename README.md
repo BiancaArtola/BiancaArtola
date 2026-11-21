@@ -24,13 +24,25 @@ I'm a systems engineer (Universidad Nacional del Sur) specialized in front-end d
 
 AI is part of my daily workflow. I use **Claude** (Claude Code, agents, skills and hooks) to automate repetitive flows, review code and keep projects well tested, and I also work with **ChatGPT** and **Gemini**.
 
+## 🤝 Leadership & collaboration
+
+- Mentoring and constant code review for teammates.
+- Technical lead on features from idea to rollout, shipped gradually behind experiments.
+- Contribution guides and shared Claude skills so the whole team can use AI in their daily work.
+
+## 🌐 Languages
+
+Spanish (native) · English (advanced)
+
 ## 🛠️ Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,nextjs,storybook,mui,tailwind,vite,jest,playwright,graphql,git,figma,postman,ionic,angular,supabase" alt="Tech stack" />
 </p>
 
-**Also:** MobX, REST (Axios), Vitest, ESLint, styled-components.
+**Also:** Vue 3 (Composition API), Pinia, Vuex, MobX, REST (Axios), OpenAPI, Vitest, ESLint, styled-components.
+
+**Design:** Figma, Figma Make, Claude Design.
 
 ## 🚀 Things I'm building
 
@@ -38,4 +50,4 @@ AI is part of my daily workflow. I use **Claude** (Claude Code, agents, skills a
 - **MiPlata** – personal finance app (React, TypeScript, Supabase) with multi-currency and Excel/CSV import. *(private)*
 - **[Final Project](https://github.com/BiancaArtola/finalproject)** – Ionic + Angular + Firebase app for renting sports courts, built around user-centered design.
 
-More on my [portfolio](https://portfolio-beta-ten-19.vercel.app/).
+More on my [portfolio](https://portfolio-beta-ten-19.vercel.app/) · [Download my CV](https://portfolio-beta-ten-19.vercel.app/cv-en.pdf).

@@ -24,13 +24,25 @@ Soy ingeniera en sistemas (Universidad Nacional del Sur) especializada en desarr
 
 La IA es parte de mi flujo de trabajo diario. Uso **Claude** (Claude Code, agentes, skills y hooks) para automatizar flujos repetitivos, revisar código y mantener los proyectos bien testeados, y también trabajo con **ChatGPT** y **Gemini**.
 
+## 🤝 Liderazgo y colaboración
+
+- Mentoreo y code review constante a compañeros.
+- Liderazgo técnico de features desde la idea hasta el despliegue, liberadas de a poco detrás de experimentos.
+- Guías de contribución y skills de Claude compartidas para que todo el equipo use IA en su trabajo diario.
+
+## 🌐 Idiomas
+
+Español (nativo) · Inglés (avanzado)
+
 ## 🛠️ Tecnologías
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,nextjs,storybook,mui,tailwind,vite,jest,playwright,graphql,git,figma,postman,ionic,angular,supabase" alt="Tecnologías" />
 </p>
 
-**También:** MobX, REST (Axios), Vitest, ESLint, styled-components.
+**También:** Vue 3 (Composition API), Pinia, Vuex, MobX, REST (Axios), OpenAPI, Vitest, ESLint, styled-components.
+
+**Diseño:** Figma, Figma Make, Claude Design.
 
 ## 🚀 En lo que estoy trabajando
 
@@ -38,4 +50,4 @@ La IA es parte de mi flujo de trabajo diario. Uso **Claude** (Claude Code, agent
 - **MiPlata** – app de finanzas personales (React, TypeScript, Supabase) con multimoneda e importación desde Excel/CSV. *(privado)*
 - **[Proyecto final](https://github.com/BiancaArtola/finalproject)** – app Ionic + Angular + Firebase para alquilar canchas deportivas, con foco en el diseño centrado en el usuario.
 
-Más en mi [portfolio](https://portfolio-beta-ten-19.vercel.app/).
+Más en mi [portfolio](https://portfolio-beta-ten-19.vercel.app/) · [Descargar mi CV](https://portfolio-beta-ten-19.vercel.app/cv-es.pdf).
